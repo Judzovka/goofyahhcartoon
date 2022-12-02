@@ -1,0 +1,25 @@
+body {
+color: black;
+border: 5px outset blue;
+text-align: center;
+background-color: #7298E4;
+}
+
+h1 {
+font-size: 100px;
+}
+p { 
+color: greenyellow;
+}
+h2 {
+color: blueviolet;
+}
+
+.dick {
+color: yellow;
+
+}
+
+.caps {
+text-transform: uppercase;
+}
